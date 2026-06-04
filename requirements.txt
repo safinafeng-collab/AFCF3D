@@ -1,0 +1,8 @@
+numpy==1.23.1
+torch==1.12.1
+torchvision==0.13.1
+opencv-python
+matplotlib
+xlsxwriter
+thop
+albumentations
